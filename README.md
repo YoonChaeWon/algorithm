@@ -5,4 +5,4 @@ I'm a beginner but trying to train everyday!
 I hope myself to be better and better !!!!!
   
 ### Dynamic Programming Plan
-[] solve 100 problem !!
+I'll solve 100 problem !!
